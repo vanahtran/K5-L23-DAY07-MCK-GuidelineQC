@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
-- Người điều phối:
-- Người review bản cuối:
+- Tên nhóm: MCK
+- Mã thành viên (ba chữ số): 058, 173
+- Người điều phối: Trần Anh Văn (058)
+- Người review bản cuối: Tạ Xuân Anh Vũ (173)
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
