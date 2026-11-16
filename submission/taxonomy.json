@@ -1,5 +1,5 @@
 {
-  "version": "v0",
+  "version": "v1.0",
   "ignore_class": "ignore_region",
   "classes": [
     {"name": "car", "definition": "Ô tô con, SUV."},
