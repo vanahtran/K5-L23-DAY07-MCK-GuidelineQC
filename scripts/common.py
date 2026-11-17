@@ -437,6 +437,6 @@ def write_csv(path: Path, header: List[str], rows: List[dict]) -> None:
 
 def rel(p: Path) -> str:
     try:
-        return str(p.relative_to(ROOT))
+        return str(p.relative_to(ROOT)).replace("\\", "/")
     except ValueError:
-        return str(p)
+        return str(p).replace("\\", "/")
