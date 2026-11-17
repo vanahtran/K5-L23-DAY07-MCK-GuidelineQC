@@ -4,7 +4,7 @@
 - Mã thành viên (ba chữ số): 058, 173
 - Người điều phối: Trần Anh Văn (058)
 - Người review bản cuối: Tạ Xuân Anh Vũ (173)
-- Commit chốt bài (điền ở kênh nộp sau khi commit):
+- Commit chốt bài (điền ở kênh nộp sau khi commit): fbebe05a118b65913ef2ffd633a0a3fd99d47b94
 
 ## Kết quả tóm tắt (điền cuối bài)
 
