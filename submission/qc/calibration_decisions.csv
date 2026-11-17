@@ -1,0 +1,353 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C001,Đạt,anh
+C002,img_001.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C002,Đạt,anh
+C003,img_001.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C003,Đạt,anh
+C004,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C004,Đạt,anh
+C005,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C005,Đạt,anh
+C006,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C006,Đạt,anh
+C007,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C007,Đạt,anh
+C008,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C008,Đạt,anh
+C009,img_001.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C009,Đạt,anh
+C010,img_002.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C010,Đạt,anh
+C011,img_002.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C011,Đạt,anh
+C012,img_002.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C012,Đạt,anh
+C013,img_002.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C013,Đạt,anh
+C014,img_002.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C014,Đạt,anh
+C015,img_002.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C015,Đạt,anh
+C016,img_002.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C016,Đạt,anh
+C017,img_003.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C017,Đạt,anh
+C018,img_003.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C018,Đạt,anh
+C019,img_003.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C019,Đạt,anh
+C020,img_003.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C020,Đạt,anh
+C021,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C021,Đạt,anh
+C022,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C022,Đạt,anh
+C023,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C023,Đạt,anh
+C024,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C024,Đạt,anh
+C025,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C025,Đạt,anh
+C026,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C026,Đạt,anh
+C027,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C027,Đạt,anh
+C028,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C028,Đạt,anh
+C029,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C029,Đạt,anh
+C030,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C030,Đạt,anh
+C031,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C031,Đạt,anh
+C032,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C032,Đạt,anh
+C033,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C033,Đạt,anh
+C034,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C034,Đạt,anh
+C035,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C035,Đạt,anh
+C036,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C036,Đạt,anh
+C037,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C037,Đạt,anh
+C038,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C038,Đạt,anh
+C039,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C039,Đạt,anh
+C040,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C040,Đạt,anh
+C041,img_003.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C041,Đạt,anh
+C042,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C042,Đạt,anh
+C043,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C043,Đạt,anh
+C044,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C044,Đạt,anh
+C045,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C045,Đạt,anh
+C046,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C046,Đạt,anh
+C047,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C047,Đạt,anh
+C048,img_003.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C048,Đạt,anh
+C049,img_003.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C049,Đạt,anh
+C050,img_003.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C050,Đạt,anh
+C051,img_003.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C051,Đạt,anh
+C052,img_003.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C052,Đạt,anh
+C053,img_003.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C053,Đạt,anh
+C054,img_004.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C054,Đạt,anh
+C055,img_004.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C055,Đạt,anh
+C056,img_004.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C056,Đạt,anh
+C057,img_004.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C057,Đạt,anh
+C058,img_004.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C058,Đạt,anh
+C059,img_004.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C059,Đạt,anh
+C060,img_004.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C060,Đạt,anh
+C061,img_005.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C061,Đạt,anh
+C062,img_005.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C062,Đạt,anh
+C063,img_005.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C063,Đạt,anh
+C064,img_005.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C064,Đạt,anh
+C065,img_005.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C065,Đạt,anh
+C066,img_005.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C066,Đạt,anh
+C067,img_005.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C067,Đạt,anh
+C068,img_005.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C068,Đạt,anh
+C069,img_005.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C069,Đạt,anh
+C070,img_005.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C070,Đạt,anh
+C071,img_005.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C071,Đạt,anh
+C072,img_005.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C072,Đạt,anh
+C073,img_005.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C073,Đạt,anh
+C074,img_005.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C074,Đạt,anh
+C075,img_005.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C075,Đạt,anh
+C076,img_006.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C076,Đạt,anh
+C077,img_006.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C077,Đạt,anh
+C078,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C078,Đạt,anh
+C079,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C079,Đạt,anh
+C080,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C080,Đạt,anh
+C081,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C081,Đạt,anh
+C082,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C082,Đạt,anh
+C083,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C083,Đạt,anh
+C084,img_006.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C084,Đạt,anh
+C085,img_006.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C085,Đạt,anh
+C086,img_006.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C086,Đạt,anh
+C087,img_006.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C087,Đạt,anh
+C088,img_006.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C088,Đạt,anh
+C089,img_006.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C089,Đạt,anh
+C090,img_006.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C090,Đạt,anh
+C091,img_006.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C091,Đạt,anh
+C092,img_006.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C092,Đạt,anh
+C093,img_006.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C093,Đạt,anh
+C094,img_006.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C094,Đạt,anh
+C095,img_007.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C095,Đạt,anh
+C096,img_008.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C096,Đạt,anh
+C097,img_008.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C097,Đạt,anh
+C098,img_008.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C098,Đạt,anh
+C099,img_008.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C099,Đạt,anh
+C100,img_008.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C100,Đạt,anh
+C101,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C101,Đạt,anh
+C102,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C102,Đạt,anh
+C103,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C103,Đạt,anh
+C104,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C104,Đạt,anh
+C105,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C105,Đạt,anh
+C106,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C106,Đạt,anh
+C107,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C107,Đạt,anh
+C108,img_008.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C108,Đạt,anh
+C109,img_008.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C109,Đạt,anh
+C110,img_008.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C110,Đạt,anh
+C111,img_008.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C111,Đạt,anh
+C112,img_008.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C112,Đạt,anh
+C113,img_008.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C113,Đạt,anh
+C114,img_008.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C114,Đạt,anh
+C115,img_008.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C115,Đạt,anh
+C116,img_008.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C116,Đạt,anh
+C117,img_008.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C117,Đạt,anh
+C118,img_008.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C118,Đạt,anh
+C119,img_008.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C119,Đạt,anh
+C120,img_009.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C120,Đạt,anh
+C121,img_009.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C121,Đạt,anh
+C122,img_009.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C122,Đạt,anh
+C123,img_009.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C123,Đạt,anh
+C124,img_009.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C124,Đạt,anh
+C125,img_009.jpg,Xác định đúng lớp theo cấu trúc phương tiện quy định tại Mục 2.1 của Guideline.,R-01,v1.1,058,PS-C125,Đạt,anh
+C126,img_009.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C126,Đạt,anh
+C127,img_009.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C127,Đạt,anh
+C128,img_009.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C128,Đạt,anh
+C129,img_010.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C129,Đạt,anh
+C130,img_010.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C130,Đạt,anh
+C131,img_010.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C131,Đạt,anh
+C132,img_010.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C132,Đạt,anh
+C133,img_010.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C133,Đạt,anh
+C134,img_010.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C134,Đạt,anh
+C135,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C135,Đạt,anh
+C136,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C136,Đạt,anh
+C137,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C137,Đạt,anh
+C138,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C138,Đạt,anh
+C139,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C139,Đạt,anh
+C140,img_011.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C140,Đạt,anh
+C141,img_011.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C141,Đạt,anh
+C142,img_011.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C142,Đạt,anh
+C143,img_011.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C143,Đạt,anh
+C144,img_011.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C144,Đạt,anh
+C145,img_011.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C145,Đạt,anh
+C146,img_011.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C146,Đạt,anh
+C147,img_011.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C147,Đạt,anh
+C148,img_011.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C148,Đạt,anh
+C149,img_012.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C149,Đạt,anh
+C150,img_012.jpg,Xác định đúng lớp theo cấu trúc phương tiện quy định tại Mục 2.1 của Guideline.,R-01,v1.1,058,PS-C150,Đạt,anh
+C151,img_012.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C151,Đạt,anh
+C152,img_012.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C152,Đạt,anh
+C153,img_012.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C153,Đạt,anh
+C154,img_013.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C154,Đạt,anh
+C155,img_013.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C155,Đạt,anh
+C156,img_013.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C156,Đạt,anh
+C157,img_013.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C157,Đạt,anh
+C158,img_013.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C158,Đạt,anh
+C159,img_014.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C159,Đạt,anh
+C160,img_014.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C160,Đạt,anh
+C161,img_014.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C161,Đạt,anh
+C162,img_015.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C162,Đạt,anh
+C163,img_015.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C163,Đạt,anh
+C164,img_015.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C164,Đạt,anh
+C165,img_015.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C165,Đạt,anh
+C166,img_015.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C166,Đạt,anh
+C167,img_016.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C167,Đạt,anh
+C168,img_016.jpg,Xác định đúng lớp theo cấu trúc phương tiện quy định tại Mục 2.1 của Guideline.,R-01,v1.1,058,PS-C168,Đạt,anh
+C169,img_016.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C169,Đạt,anh
+C170,img_016.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C170,Đạt,anh
+C171,img_017.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C171,Đạt,anh
+C172,img_018.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C172,Đạt,anh
+C173,img_018.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C173,Đạt,anh
+C174,img_018.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C174,Đạt,anh
+C175,img_018.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C175,Đạt,anh
+C176,img_019.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C176,Đạt,anh
+C177,img_019.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C177,Đạt,anh
+C178,img_019.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C178,Đạt,anh
+C179,img_019.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C179,Đạt,anh
+C180,img_020.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C180,Đạt,anh
+C181,img_021.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C181,Đạt,anh
+C182,img_021.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C182,Đạt,anh
+C183,img_021.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C183,Đạt,anh
+C184,img_021.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C184,Đạt,anh
+C185,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C185,Đạt,anh
+C186,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C186,Đạt,anh
+C187,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C187,Đạt,anh
+C188,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C188,Đạt,anh
+C189,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C189,Đạt,anh
+C190,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C190,Đạt,anh
+C191,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C191,Đạt,anh
+C192,img_021.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C192,Đạt,anh
+C193,img_021.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C193,Đạt,anh
+C194,img_021.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C194,Đạt,anh
+C195,img_021.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C195,Đạt,anh
+C196,img_021.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C196,Đạt,anh
+C197,img_022.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C197,Đạt,anh
+C198,img_022.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C198,Đạt,anh
+C199,img_023.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C199,Đạt,anh
+C200,img_023.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C200,Đạt,anh
+C201,img_023.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C201,Đạt,anh
+C202,img_023.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C202,Đạt,anh
+C203,img_023.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C203,Đạt,anh
+C204,img_023.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C204,Đạt,anh
+C205,img_024.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C205,Đạt,anh
+C206,img_024.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C206,Đạt,anh
+C207,img_024.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C207,Đạt,anh
+C208,img_024.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C208,Đạt,anh
+C209,img_025.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C209,Đạt,anh
+C210,img_025.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C210,Đạt,anh
+C211,img_025.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C211,Đạt,anh
+C212,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C212,Đạt,anh
+C213,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C213,Đạt,anh
+C214,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C214,Đạt,anh
+C215,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C215,Đạt,anh
+C216,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C216,Đạt,anh
+C217,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C217,Đạt,anh
+C218,img_025.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C218,Đạt,anh
+C219,img_025.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C219,Đạt,anh
+C220,img_025.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C220,Đạt,anh
+C221,img_025.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C221,Đạt,anh
+C222,img_025.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C222,Đạt,anh
+C223,img_025.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C223,Đạt,anh
+C224,img_025.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C224,Đạt,anh
+C225,img_025.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C225,Đạt,anh
+C226,img_025.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C226,Đạt,anh
+C227,img_026.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C227,Đạt,anh
+C228,img_026.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C228,Đạt,anh
+C229,img_026.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C229,Đạt,anh
+C230,img_027.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C230,Đạt,anh
+C231,img_028.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C231,Đạt,anh
+C232,img_029.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C232,Đạt,anh
+C233,img_029.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C233,Đạt,anh
+C234,img_029.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C234,Đạt,anh
+C235,img_029.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C235,Đạt,anh
+C236,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C236,Đạt,anh
+C237,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C237,Đạt,anh
+C238,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C238,Đạt,anh
+C239,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C239,Đạt,anh
+C240,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C240,Đạt,anh
+C241,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C241,Đạt,anh
+C242,img_030.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C242,Đạt,anh
+C243,img_030.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C243,Đạt,anh
+C244,img_030.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C244,Đạt,anh
+C245,img_030.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C245,Đạt,anh
+C246,img_030.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C246,Đạt,anh
+C247,img_030.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C247,Đạt,anh
+C248,img_030.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C248,Đạt,anh
+C249,img_030.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C249,Đạt,anh
+C250,img_030.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C250,Đạt,anh
+C251,img_030.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C251,Đạt,anh
+C252,img_030.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C252,Đạt,anh
+C253,img_030.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C253,Đạt,anh
+C254,img_031.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C254,Đạt,anh
+C255,img_031.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C255,Đạt,anh
+C256,img_031.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C256,Đạt,anh
+C257,img_031.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C257,Đạt,anh
+C258,img_031.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C258,Đạt,anh
+C259,img_031.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C259,Đạt,anh
+C260,img_031.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C260,Đạt,anh
+C261,img_031.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C261,Đạt,anh
+C262,img_032.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C262,Đạt,anh
+C263,img_032.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C263,Đạt,anh
+C264,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C264,Đạt,anh
+C265,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C265,Đạt,anh
+C266,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C266,Đạt,anh
+C267,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C267,Đạt,anh
+C268,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C268,Đạt,anh
+C269,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C269,Đạt,anh
+C270,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C270,Đạt,anh
+C271,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C271,Đạt,anh
+C272,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C272,Đạt,anh
+C273,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C273,Đạt,anh
+C274,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C274,Đạt,anh
+C275,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C275,Đạt,anh
+C276,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C276,Đạt,anh
+C277,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C277,Đạt,anh
+C278,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C278,Đạt,anh
+C279,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C279,Đạt,anh
+C280,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C280,Đạt,anh
+C281,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C281,Đạt,anh
+C282,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C282,Đạt,anh
+C283,img_032.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C283,Đạt,anh
+C284,img_032.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C284,Đạt,anh
+C285,img_032.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C285,Đạt,anh
+C286,img_032.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C286,Đạt,anh
+C287,img_032.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C287,Đạt,anh
+C288,img_033.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C288,Đạt,anh
+C289,img_033.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C289,Đạt,anh
+C290,img_033.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C290,Đạt,anh
+C291,img_033.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C291,Đạt,anh
+C292,img_034.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C292,Đạt,anh
+C293,img_034.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C293,Đạt,anh
+C294,img_034.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C294,Đạt,anh
+C295,img_034.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C295,Đạt,anh
+C296,img_034.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C296,Đạt,anh
+C297,img_034.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C297,Đạt,anh
+C298,img_034.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C298,Đạt,anh
+C299,img_035.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C299,Đạt,anh
+C300,img_035.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C300,Đạt,anh
+C301,img_035.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C301,Đạt,anh
+C302,img_035.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C302,Đạt,anh
+C303,img_035.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C303,Đạt,anh
+C304,img_035.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C304,Đạt,anh
+C305,img_035.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C305,Đạt,anh
+C306,img_035.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C306,Đạt,anh
+C307,img_036.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C307,Đạt,anh
+C308,img_036.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C308,Đạt,anh
+C309,img_036.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C309,Đạt,anh
+C310,img_036.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C310,Đạt,anh
+C311,img_036.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C311,Đạt,anh
+C312,img_036.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C312,Đạt,anh
+C313,img_037.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C313,Đạt,anh
+C314,img_037.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C314,Đạt,anh
+C315,img_037.jpg,Xác định đúng lớp theo cấu trúc phương tiện quy định tại Mục 2.1 của Guideline.,R-01,v1.1,058,PS-C315,Đạt,anh
+C316,img_037.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C316,Đạt,anh
+C317,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C317,Đạt,anh
+C318,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C318,Đạt,anh
+C319,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C319,Đạt,anh
+C320,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C320,Đạt,anh
+C321,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C321,Đạt,anh
+C322,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C322,Đạt,anh
+C323,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C323,Đạt,anh
+C324,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C324,Đạt,anh
+C325,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C325,Đạt,anh
+C326,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C326,Đạt,anh
+C327,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C327,Đạt,anh
+C328,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C328,Đạt,anh
+C329,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C329,Đạt,anh
+C330,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C330,Đạt,anh
+C331,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C331,Đạt,anh
+C332,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C332,Đạt,anh
+C333,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C333,Đạt,anh
+C334,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C334,Đạt,anh
+C335,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C335,Đạt,anh
+C336,img_038.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C336,Đạt,anh
+C337,img_039.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C337,Đạt,anh
+C338,img_039.jpg,Áp dụng R-08: thống nhất phạm vi vùng ignore_region cho cụm vật thể nhỏ ở cự ly xa.,R-08,v1.1,058,PS-C338,Đạt,anh
+C339,img_039.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C339,Đạt,anh
+C340,img_039.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C340,Đạt,anh
+C341,img_039.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C341,Đạt,anh
+C342,img_039.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C342,Đạt,anh
+C343,img_039.jpg,"Chọn bounding box ôm sát các pixel nhìn thấy được theo R-01, loại bỏ phần lỏng.",R-01,v1.1,058,PS-C343,Đạt,anh
+C344,img_039.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C344,Đạt,anh
+C345,img_039.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C345,Đạt,anh
+C346,img_040.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C346,Đạt,anh
+C347,img_040.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C347,Đạt,anh
+C348,img_040.jpg,"Xác nhận đối tượng thật có trên mặt đường, giữ lại box gán chuẩn của người gán đúng.",R-01,v1.1,058,PS-C348,Đạt,anh
+C349,img_040.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C349,Đạt,anh
+C350,img_040.jpg,"Họp nhóm rà soát ca nghi ngờ, thống nhất nhãn và tắt toàn bộ cờ can_review.",R-01,v1.1,058,PS-C350,Đạt,anh
+C351,img_040.jpg,"Thống nhất truncated theo R-04: bật yes nếu vật chạm mép viền ảnh, ngược lại no.",R-04,v1.1,058,PS-C351,Đạt,anh
+C352,img_040.jpg,Thống nhất occluded_level theo tỷ lệ diện tích nhìn thấy thực tế trên ảnh.,R-01,v1.1,058,PS-C352,Đạt,anh
